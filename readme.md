@@ -3,6 +3,7 @@
 
 ## Lab
 1. [lab1](./lab1/lab1.md)
+2. [lab2](./lab2/lab2.md)
 
 ## GFS
 https://zhuanlan.zhihu.com/p/48164256
