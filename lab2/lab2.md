@@ -128,5 +128,7 @@ https://blog.csdn.net/qq_40832456/article/details/104843098
   1. 难以理解
   2. 无法通过论文搭建一个实用得实现
 
+3. [implement note](https://thesquareplanet.com/blog/students-guide-to-raft/)
+
 
 ### The design of a practical system for fault-tolerant virtual machines (Fault-Tolerant Virtual Machines)
